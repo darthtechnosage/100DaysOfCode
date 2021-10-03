@@ -8,3 +8,8 @@ More Info about this day can be found [here](Day1/Day1.md)
 
 ## day 2
 Got a domain like all the cool kids. Created a blogger website. Figured out how to create a home page and some links. This is probably the most basic of blogger sites. Jumped into day 1 of acutally coding. 
+
+## day 3
+Completed day 1 and part of day 2 of 100 days of swift UI [Website](https://www.hackingwithswift.com/100)
+
+Also created a leveling system for a game concept. 
