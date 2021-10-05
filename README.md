@@ -19,3 +19,13 @@ Also created a leveling system for a game concept.
 - Dictionaries
 - Dictionary default values
 - Creating empty collections
+
+## Day 5
+- Enumerations
+- Enum associated values
+- Enum Raw values
+- Complex types: Summary
+- Arithmetic Operators
+- operator overloading
+- compound assignment operators
+- comparision operators
