@@ -29,3 +29,9 @@ Also created a leveling system for a game concept.
 - operator overloading
 - compound assignment operators
 - comparision operators
+
+## Day 6
+- conditions
+- Combining Conditions
+
+## Day 7
