@@ -1,3 +1,6 @@
 ## Day 7
-- The ternary operator
-- Switch Statements
+- Ternary operator
+- switch statments
+- range operators
+- operators and conditions summery
+- Operators and condititons summary

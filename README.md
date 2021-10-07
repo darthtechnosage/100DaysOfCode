@@ -37,3 +37,6 @@ Also created a leveling system for a game concept.
 ## Day 7
 - Ternary operator
 - switch statments
+- range operators
+- operators and conditions summery
+- Operators and condititons summary
