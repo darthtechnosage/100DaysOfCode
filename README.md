@@ -35,3 +35,5 @@ Also created a leveling system for a game concept.
 - Combining Conditions
 
 ## Day 7
+- Ternary operator
+- switch statments
