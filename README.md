@@ -39,7 +39,7 @@ Also created a leveling system for a game concept.
 - switch statments
 - range operators
 - operators and conditions summery
-- Operators and condititons summary
+
 
 ## Day 8 
 - for loops
