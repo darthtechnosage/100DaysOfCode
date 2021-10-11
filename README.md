@@ -45,4 +45,9 @@ Also created a leveling system for a game concept.
 - for loops
 
 ## Day 9
-- 
+- for loops test
+- while loops
+- while loops test
+- repeat loops
+- repeat loops test
+- exiting loops
