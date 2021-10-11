@@ -43,3 +43,6 @@ Also created a leveling system for a game concept.
 
 ## Day 8 
 - for loops
+
+## Day 9
+- 
