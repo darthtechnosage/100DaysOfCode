@@ -51,3 +51,7 @@ Also created a leveling system for a game concept.
 - repeat loops
 - repeat loops test
 - exiting loops
+
+## Day 10
+- Exiting multiple loops
+- Exiting multiple loops test 6/6
