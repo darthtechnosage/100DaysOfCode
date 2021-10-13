@@ -55,3 +55,7 @@ Also created a leveling system for a game concept.
 ## Day 10
 - Exiting multiple loops
 - Exiting multiple loops test 6/6
+
+## Day 11
+- Skipping items
+- Skipping teams test 9/12
