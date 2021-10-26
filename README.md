@@ -59,3 +59,10 @@ Also created a leveling system for a game concept.
 ## Day 11
 - Skipping items
 - Skipping teams test 9/12
+
+## Day 12
+- Infinite loops
+- Infinite loops test 8/12
+- looping summery
+- looping test 7/12
+- Writing functions
